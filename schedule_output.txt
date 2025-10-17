@@ -1,8 +1,8 @@
 Date Range                           Primary On-Call    Secondary On-Call
 October 27 - October 31 (Weekday)    Sam David          Alex Mitchell
 October 31 - November 3 (Weekend)    Alex Mitchell      Sam David
-November 3 - November 7 (Weekday)    Lane Russell       Sarah Eisen
-November 7 - November 10 (Weekend)   Sarah Eisen        Lane Russell
+November 3 - November 7 (Weekday)    Lane Russell       Marcus Bernales
+November 7 - November 10 (Weekend)   Marcus Bernales    Lane Russell
 November 10 - November 14 (Weekday)  Michael Deutsch    Sam Wlody
 November 14 - November 17 (Weekend)  Sam Wlody          Michael Deutsch
 November 17 - November 21 (Weekday)  Matt Gruber        Hassaan Ejaz
@@ -17,5 +17,5 @@ December 15 - December 19 (Weekday)  Connor Devlin      Carl Weis
 December 19 - December 22 (Weekend)  Carl Weis          Connor Devlin
 December 22 - December 26 (Weekday)  Duncan Morrissey   Athif Wulandana
 December 26 - December 29 (Weekend)  Athif Wulandana    Duncan Morrissey
-December 29 - January 2 (Weekday)    Hunter Stevens     Marcus Bernales
-January 2 - January 5 (Weekend)      Marcus Bernales    Hunter Stevens
+December 29 - January 2 (Weekday)    Hunter Stevens     Sarah Eisen
+January 2 - January 5 (Weekend)      Sarah Eisen        Hunter Stevens
