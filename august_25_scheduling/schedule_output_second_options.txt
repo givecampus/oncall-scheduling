@@ -1,0 +1,39 @@
+Pairings:
+------------------------------
+{:engineer_one=>"Hassaan Ejaz", :engineer_two=>"Nick Mullen"}
+{:engineer_one=>"Alex Mitchell", :engineer_two=>"Duncan Morrissey"}
+{:engineer_one=>"May Miller-Ricci", :engineer_two=>"Connor Devlin"}
+{:engineer_one=>"Sam Eckmeier", :engineer_two=>"Lane Russel"}
+{:engineer_one=>"Jackie Lee", :engineer_two=>"Sarah Eisen"}
+{:engineer_one=>"Matt Gruber", :engineer_two=>"Alex Villela"}
+{:engineer_one=>"Hunter Stevens", :engineer_two=>"Michael Deutsch"}
+{:engineer_one=>"Peter Szczepanski", :engineer_two=>"Carl Weis"}
+{:engineer_one=>"Sam David", :engineer_two=>"Pete Hanner"}
+{:engineer_one=>"Mike Dworken", :engineer_two=>"Matt Price"}
+{:engineer_one=>"TBD", :engineer_two=>"Alejandro Vasquez"}
+------------------------------
+Schedule:
+------------------------------
+August 18 - August 22 (Weekday)	Hassaan Ejaz	Nick Mullen
+August 22 - August 25 (Weekend)	Nick Mullen	Hassaan Ejaz
+August 25 - August 29 (Weekday)	Alex Mitchell	Duncan Morrissey
+August 29 - September 1 (Weekend)	Duncan Morrissey	Alex Mitchell
+September 1 - September 5 (Weekday)	May Miller-Ricci	Connor Devlin
+September 5 - September 8 (Weekend)	Connor Devlin	May Miller-Ricci
+September 8 - September 12 (Weekday)	Sam Eckmeier	Lane Russel
+September 12 - September 15 (Weekend)	Lane Russel	Sam Eckmeier
+September 15 - September 19 (Weekday)	Jackie Lee	Sarah Eisen
+September 19 - September 22 (Weekend)	Sarah Eisen	Jackie Lee
+September 22 - September 26 (Weekday)	Matt Gruber	Alex Villela
+September 26 - September 29 (Weekend)	Alex Villela	Matt Gruber
+September 29 - October 3 (Weekday)	Hunter Stevens	Michael Deutsch
+October 3 - October 6 (Weekend)	Michael Deutsch	Hunter Stevens
+October 6 - October 10 (Weekday)	Peter Szczepanski	Carl Weis
+October 10 - October 13 (Weekend)	Carl Weis	Peter Szczepanski
+October 13 - October 17 (Weekday)	Sam David	Pete Hanner
+October 17 - October 20 (Weekend)	Pete Hanner	Sam David
+October 20 - October 24 (Weekday)	Mike Dworken	Matt Price
+October 24 - October 27 (Weekend)	Matt Price	Mike Dworken
+October 27 - October 31 (Weekday)	TBD	Alejandro Vasquez
+October 31 - November 3 (Weekend)	Alejandro Vasquez	TBD
+------------------------------

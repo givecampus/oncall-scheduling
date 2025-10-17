@@ -1,0 +1,36 @@
+Pairings:
+------------------------------
+{:engineer_one=>"Lane Russell", :engineer_two=>"Connor Devlin"}
+{:engineer_one=>"Sam Eckmeier", :engineer_two=>"Hassaan Ejaz"}
+{:engineer_one=>"Jackie Lee", :engineer_two=>"Peter Szczepanski"}
+{:engineer_one=>"Matt Price", :engineer_two=>"Alex Villela"}
+{:engineer_one=>"Duncan Morrissey", :engineer_two=>"Sam David"}
+{:engineer_one=>"Carl Weis", :engineer_two=>"Matt Gruber"}
+{:engineer_one=>"Sarah Eisen", :engineer_two=>"Alex Mitchell"}
+{:engineer_one=>"Alejandro Vasquez", :engineer_two=>"Hunter Stevens"}
+{:engineer_one=>"Michael Deutsch", :engineer_two=>"Mike Dworken"}
+{:engineer_one=>"May Miller-Ricci", :engineer_two=>"Pete Hanner"}
+------------------------------
+Schedule:
+------------------------------
+August 18 - August 22 (Weekday)	Lane Russell	Connor Devlin
+August 22 - August 25 (Weekend)	Connor Devlin	Lane Russell
+August 25 - August 29 (Weekday)	Sam Eckmeier	Hassaan Ejaz
+August 29 - September 1 (Weekend)	Hassaan Ejaz	Sam Eckmeier
+September 1 - September 5 (Weekday)	Jackie Lee	Peter Szczepanski
+September 5 - September 8 (Weekend)	Peter Szczepanski	Jackie Lee
+September 8 - September 12 (Weekday)	Matt Price	Alex Villela
+September 12 - September 15 (Weekend)	Alex Villela	Matt Price
+September 15 - September 19 (Weekday)	Duncan Morrissey	Sam David
+September 19 - September 22 (Weekend)	Sam David	Duncan Morrissey
+September 22 - September 26 (Weekday)	Carl Weis	Matt Gruber
+September 26 - September 29 (Weekend)	Matt Gruber	Carl Weis
+September 29 - October 3 (Weekday)	Sarah Eisen	Alex Mitchell
+October 3 - October 6 (Weekend)	Alex Mitchell	Sarah Eisen
+October 6 - October 10 (Weekday)	Alejandro Vasquez	Hunter Stevens
+October 10 - October 13 (Weekend)	Hunter Stevens	Alejandro Vasquez
+October 13 - October 17 (Weekday)	Michael Deutsch	Mike Dworken
+October 17 - October 20 (Weekend)	Mike Dworken	Michael Deutsch
+October 20 - October 24 (Weekday)	May Miller-Ricci	Pete Hanner
+October 24 - October 27 (Weekend)	Pete Hanner	May Miller-Ricci
+------------------------------
