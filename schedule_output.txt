@@ -3,8 +3,8 @@ October 27 - October 31 (Weekday)    Sam David          Alex Mitchell
 October 31 - November 3 (Weekend)    Alex Mitchell      Sam David
 November 3 - November 7 (Weekday)    Lane Russell       Sarah Eisen
 November 7 - November 10 (Weekend)   Sarah Eisen        Lane Russell
-November 10 - November 14 (Weekday)  Jacob Cho          Sam Wlody
-November 14 - November 17 (Weekend)  Sam Wlody          Jacob Cho
+November 10 - November 14 (Weekday)  Michael Deutsch    Sam Wlody
+November 14 - November 17 (Weekend)  Sam Wlody          Michael Deutsch
 November 17 - November 21 (Weekday)  Matt Gruber        Hassaan Ejaz
 November 21 - November 24 (Weekend)  Hassaan Ejaz       Matt Gruber
 November 24 - November 28 (Weekday)  Sam Eckmeier       Athif Wulandana
@@ -15,7 +15,7 @@ December 8 - December 12 (Weekday)   Pete Hanner        Alejandro Vasquez
 December 12 - December 15 (Weekend)  Alejandro Vasquez  Pete Hanner
 December 15 - December 19 (Weekday)  Connor Devlin      Carl Weis
 December 19 - December 22 (Weekend)  Carl Weis          Connor Devlin
-December 22 - December 26 (Weekday)  Duncan Morrissey   Michael Deutsch
-December 26 - December 29 (Weekend)  Michael Deutsch    Duncan Morrissey
+December 22 - December 26 (Weekday)  Duncan Morrissey   Jacob Cho
+December 26 - December 29 (Weekend)  Jacob Cho          Duncan Morrissey
 December 29 - January 2 (Weekday)    Hunter Stevens     Marcus Bernales
 January 2 - January 5 (Weekend)      Marcus Bernales    Hunter Stevens
