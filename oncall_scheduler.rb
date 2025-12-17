@@ -28,19 +28,14 @@ names = [
   "Sam Eckmeier",
   "Sarah Eisen",
   "Sam Wlody",
+  "David Ruiz",
+  "Mark Rogers",
+  "PJ Weaver",
+  "Alex Villela",
 ].shuffle
 
-maybe_add = [
-  "Jacob Cho",
-  "David Ruiz",
-]
-
 removed_people = [
-    "Alex Villela",
-    "Matt Price",
     "Jackie Lee",
-    "Peter Szczepanski",
-    "Mike Dworken",
 ]
 
 pairs = []

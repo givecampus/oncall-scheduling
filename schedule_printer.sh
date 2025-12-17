@@ -30,8 +30,10 @@ NAMES=(
   "Sam Eckmeier"
   "Sarah Eisen"
   "Sam Wlody"
-  "Jacob Cho"
   "David Ruiz"
+  "Mark Rogers"
+  "PJ Weaver"
+  "Alex Villela"
 )
 
 # Search for each name and print results
