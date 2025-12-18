@@ -9,8 +9,8 @@ January 26 - January 30 (Weekday)   	Carl Weis            	Mark Rogers
 January 30 - February 2 (Weekend)   	Mark Rogers          	Carl Weis
 February 2 - February 6 (Weekday)   	May Miller-Ricci     	Sarah Eisen
 February 6 - February 9 (Weekend)   	Sarah Eisen          	May Miller-Ricci
-February 9 - February 13 (Weekday)  	Pete Hanner          	Alex Villela
-February 13 - February 16 (Weekend) 	Alex Villela         	Pete Hanner
+February 9 - February 13 (Weekday)  	Athif Wulandana      	Alex Villela
+February 13 - February 16 (Weekend) 	Alex Villela         	Athif Wulandana
 February 16 - February 20 (Weekday) 	Alejandro Vasquez    	Hunter Stevens
 February 20 - February 23 (Weekend) 	Hunter Stevens       	Alejandro Vasquez
 February 23 - February 27 (Weekday) 	Alex Mitchell        	David Ruiz
@@ -21,5 +21,5 @@ March 9 - March 13 (Weekday)        	Sam Eckmeier         	Hassaan Ejaz
 March 13 - March 16 (Weekend)       	Hassaan Ejaz         	Sam Eckmeier
 March 16 - March 20 (Weekday)       	Duncan Morrissey     	PJ Weaver
 March 20 - March 23 (Weekend)       	PJ Weaver            	Duncan Morrissey
-March 23 - March 27 (Weekday)       	Athif Wulandana      	Joshua Born
-March 27 - March 30 (Weekend)       	Joshua Born          	Athif Wulandana
+March 23 - March 27 (Weekday)       	Pete Hanner          	Joshua Born
+March 27 - March 30 (Weekend)       	Joshua Born          	Pete Hanner
