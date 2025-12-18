@@ -5,7 +5,7 @@ def print_divider
   puts "------------------------------"
 end
 
-start_date = Date.new(2025, 10, 27) # Make this the Monday of the 1st weekday shift you want to generate
+start_date = Date.new(2026, 1, 5) # Make this the Monday of the 1st weekday shift you want to generate
 current_date = start_date
 
 names = [
@@ -32,6 +32,7 @@ names = [
   "Mark Rogers",
   "PJ Weaver",
   "Alex Villela",
+  "Rishabh Swarnkar",
 ].shuffle
 
 removed_people = [
