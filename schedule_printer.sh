@@ -42,7 +42,7 @@ echo "----------------------------------------"
 
 for name in "${NAMES[@]}"; do
     echo "Results for: $name"
-    echo -e "Date\t\t\t\t Primary\t Secondary"
+    echo -e "Date\t\t\t\t\t Primary\t\t Secondary"
     grep -i "$name" "$FILE"
     echo "----------------------------------------"
 done
