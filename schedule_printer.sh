@@ -42,9 +42,14 @@ echo "----------------------------------------"
 
 for name in "${NAMES[@]}"; do
     echo "Results for: $name"
+    echo "It's time for on-call scheduling again. This schedule runs through March 30th, here is what I have proposed for you:"
+    echo
     echo -e "Date\t\t\t\t\t Primary\t\t Secondary"
     grep -i "$name" "$FILE"
+    echo
+    echo "Please let me know if there are any issues, and we’ll try to work out swaps. Thanks!"
     echo "----------------------------------------"
+    read
 done
 
 echo "Search complete."
